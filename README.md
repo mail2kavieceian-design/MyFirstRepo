@@ -4,3 +4,4 @@ cd MyFirstRepo
 git status
 git add hello.txt
 git commit -m "Add hello.txt file"
+git push origin main
